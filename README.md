@@ -24,3 +24,5 @@
 - Contribuir em **projetos open source**.  
 - Compartilhar conhecimento e experiências ao longo da jornada.  
 
+## 📫 Onde me encontrar
+[![LinkedIn] (https://www.linkedin.com/in/matheus-kelvin-498575186)
